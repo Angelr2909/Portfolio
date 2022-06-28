@@ -214,19 +214,19 @@ li > a:hover{
     transition: .2s;
 }
 .item-1{
-    background-image: url(/img/isg.jpg);
+    background-image: url(img/isg.jpg);
     background-size: contain;
 
 }
 .item-3{
-    background-image: url(/img/plantilla1.jpg);
+    background-image: url(img/plantilla1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 
 }
 .item-4{
-    background-image: url(/img/registro.jpg);
+    background-image: url(img/registro.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
